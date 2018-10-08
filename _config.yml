@@ -9,14 +9,14 @@ url: "https://luuuuuuuyouli.github.io/liluyou" # the base hostname & protocol fo
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: _桐原亮司ryouji # add your name
+author: 桐原亮司ryouji # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 欢迎来到我的个人博客,我会在这里分享一些技术总结和平时遇到的问题. # add description
+about-author: 欢迎来到我的个人博客，在这里我将分享一些我遇到的技术总结和问题 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: luuuuuuuyouli # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email:15826383768@163.com # add your Email address
+social-email: 15826383768@163.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
