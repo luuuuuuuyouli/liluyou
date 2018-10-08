@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 桐原亮司ryouji # add your name
 author-img: my-headImg.jpg # add your photo
-about-author: 欢迎来到我的个人博客，在这里我将分享一些我遇到的技术总结和问题 # add description
+about-author: 欢迎来到我的个人技术博客，主要方向是Web前端+iOS # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: luuuuuuuyouli # add your Github handle
