@@ -3,13 +3,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-permalink: ':title/'
+permalink: ":title/"
 baseurl: "/liluyou" # the subpath of your site, e.g. /blog
 url: "https://luuuuuuuyouli.github.io/liluyou" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 桐原亮司ryouji # add your name
+author: Syong_沈 # add your name
 author-img: my-headImg.jpg # add your photo
 about-author: 欢迎来到我的个人技术博客，主要方向是Web前端+iOS # add description
 social-twitter: # add your Twitter handle
